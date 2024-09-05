@@ -1,0 +1,2 @@
+# Decentralized-Autonomous-Organization-Management-Platform
+This repository hosts the codebase for a Decentralized Autonomous Organization (DAO) Management Platform, enabling decentralized governance and decision-making through blockchain technology. Users can easily create, manage, and participate in DAOs using smart contracts for transparent voting, proposal creation, and efficient fund management.
